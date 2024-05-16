@@ -12,3 +12,4 @@ Delete :- one can delete .json file and delete json data in it.
 ## Requirements
 1. Be able to create a file.(any)
 2. Import json.
+3. Using json.dump() and json.load() to create and read.json file.
