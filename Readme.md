@@ -20,3 +20,6 @@ Delete :- one can delete .json file and delete json data in it.
 3. In update.py the files created are read and the data is updated. 
 In data.json age is changed to 31.
 4. In delete.py the car.json created is read and the data is deleted.
+
+## Guide 
+In order to see changes happening for each operation please run the code in the following order. create.py, read.py, update.py, delete.py.
